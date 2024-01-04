@@ -1,13 +1,13 @@
 [
 {
   "modid": "examplemod",
-  "name": "ExampleMod",
-  "description": "Nice mod",
+  "name": "RadiumReborn",
+  "description": "Radium client ported to forge,with new bypasses",
   "version": "${version}",
   "mcversion": "${mcversion}",
   "url": "",
   "updateUrl": "",
-  "authorList": ["manuthebyte", "ExampleModDev"],
+  "authorList": ["Spectrum", "blackbox"],
   "credits": "",
   "logoFile": "",
   "screenshots": [],
